@@ -1,0 +1,7 @@
+C:\Users\Evans\source\repos\HangManLab2\HangManLab2\bin\Debug\HangManLab2.exe.config
+C:\Users\Evans\source\repos\HangManLab2\HangManLab2\bin\Debug\HangManLab2.exe
+C:\Users\Evans\source\repos\HangManLab2\HangManLab2\bin\Debug\HangManLab2.pdb
+C:\Users\Evans\source\repos\HangManLab2\HangManLab2\obj\Debug\HangManLab2.csprojAssemblyReference.cache
+C:\Users\Evans\source\repos\HangManLab2\HangManLab2\obj\Debug\HangManLab2.csproj.CoreCompileInputs.cache
+C:\Users\Evans\source\repos\HangManLab2\HangManLab2\obj\Debug\HangManLab2.exe
+C:\Users\Evans\source\repos\HangManLab2\HangManLab2\obj\Debug\HangManLab2.pdb
